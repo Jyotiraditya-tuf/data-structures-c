@@ -1,0 +1,9 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# Debug and editor configs
+.vscode/
+.DS_Store
